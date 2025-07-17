@@ -1,5 +1,5 @@
 {
-  "name": "koishi-plugin-shulikou-zhoubao",
+  "name": "koishi-plugin-shulikou",
   "description": "开箱即用的术力口周报插件",
   "version": "0.0.3",
   "main": "lib/index.js",
